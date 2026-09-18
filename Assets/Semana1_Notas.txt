@@ -1,0 +1,8 @@
+La evolución de los videojuegos empezó con una simple máquina de luces y botones, Nimrod, en 1951; aunque no era precisamente un videojuego, era entretenido. 
+Luego, en los 60 y 70, nacieron Tennis for Two y Pong, propuestas simples basadas en física básica y reflejos. Después, en los 80, llegaron las arcades y las consolas 
+domésticas, donde empezó el boom de los videojuegos, como Pac-Man, Donkey Kong, Karate Champ (que fue el primer género de lucha 1 vs 1 en aparecer), etc. 
+Luego, en los 90 y 2000, llegó la revolución con los juegos 3D sencillos como Wolfenstein, Doom, Tekken (que es otro juego de lucha), Star Fox, etc. 
+A la par, sacaron las consolas por parte de Sony, quien trajo el entretenimiento a casa y ya no en las arcades, que posteriormente quedarían obsoletas, 
+pero aún se aprecian por fans o fanáticos de lo retro. Ahora, en la actualidad, el 3D avanzó considerablemente, dejando los gráficos antiguos por mejores modelos, 
+haciendo que la experiencia sea lo más realista posible para los jugadores, lo cual llevó a que algunas empresas sacaran motores gráficos para que cualquier fanático de los videojuegos 
+pueda crear el suyo propio, obviamente con cierto conocimiento en programación, así como Unity, Unreal Engine, etc.
